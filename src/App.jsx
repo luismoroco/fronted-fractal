@@ -1,14 +1,14 @@
 import './App.css'
-import { ProductsPages } from './pages/products'
+import { MyOrders } from './pages/myh-orders'
+
 
 function App() {
   return (
     <div className={'App'}>
-      <ProductsPages />
-
-      
+      <MyOrders />
+    
     </div>
-  )
-}
+  )                                                                                                                                                                                                                                      
+}                                                                                                 
 
 export default App
