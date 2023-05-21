@@ -43,7 +43,7 @@ import AddCircleIcon from '@mui/icons-material/AddCircle';
 
 import axios from "axios";
 
-export const MyOrders = () => {
+export const OrdersPage = () => {
   const [orders, setOrders] = useState([]);
   const [items, setItems] = useState([]);
   const [viewModal, setViewModal] = useState(false);
